@@ -10,9 +10,14 @@ links:
 - icon: github
   icon_pack: fab
   name: Repo
-  url: https://github.com/andvarga-eco/econometria2
-
+  url: https://github.com/andvarga-eco/Econometria2
+  
+- icon: book
+  icon_pack: fab
+  name: Notas de clase
+  url: https://andvarga-eco.github.io/Econometria2/
+  
 title: Econometría II-PR
 ---
 
-Este es un curso en dos partes. En la primera se abarca lo referente a la inferencia causal con datos de sección cruzada y datos panel. La segunda parte hace una introducción a las series de tiempo. La parte práctica se trabaja en R
+Este es un curso en dos partes. En la primera se abarca lo referente a la inferencia causal con datos de sección cruzada y datos panel. La segunda parte hace una introducción a las series de tiempo. La parte práctica se trabaja en R.

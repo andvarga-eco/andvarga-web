@@ -8,6 +8,8 @@ excerpt: "En revistas indexadas y documentos de trabajo"
 
 ## Revistas indexadas
 
+De la Cruz, S., Vargas, A., Martínez, M. (2022) "Integración espacial de mercados lácteos: efecto de precios regulados", Revista de Economía del Caribe, 29, [paper](https://rcientificas.uninorte.edu.co/index.php/economia/article/view/14640/214421446089)
+
 Vargas, A., Sarmiento, J., Diaz, D. (2020) “Has cost benefit analysis improved decisions in Colombia? Evidence from the environmental licensing process” Ecological Economics, https://doi.org/10.1016/j.ecolecon.2020.106807 [paper](https://www.researchgate.net/publication/343536126_Has_Cost_Benefit_Analysis_Improved_Decisions_in_Colombia_Evidence_from_the_Environmental_Licensing_Process)  
 
 Rivillas-Ospina, G., Maza-Chamorro, M., Restrepo, S., Lithgow, D., Silva, R., Sisa, A., Vargas, A., Sarmiento, J., Caes, J., Bolivar, M., Del Río, R., Campo, E., Casas, D., Rudas, D. (2020) “Alternatives for recovering the ecosystem services and resilience of the Salamanca Island Natural Park, Colombia” Water, 12, 1513, doi:10.3390/w12051513 [paper](https://www.researchgate.net/publication/341626318_Alternatives_for_Recovering_the_Ecosystem_Services_and_Resilience_of_the_Salamanca_Island_Natural_Park_Colombia)

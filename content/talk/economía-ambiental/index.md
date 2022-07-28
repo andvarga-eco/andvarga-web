@@ -10,9 +10,14 @@ links:
 - icon: github
   icon_pack: fab
   name: Repo
-  url: https://github.com/andvarga-eco/econometria2
+  url: https://github.com/andvarga-eco/ema
+  
+- icon: book
+  icon_pack: fab
+  name: Notas de clase
+  url: https://andvarga-eco.github.io/ema/
 
 title: Economía del Medio Ambiente
 ---
 
-El cambio climático y la pérdida de biodiversidad son grandes problemas que enfrenta la humanidad. Este curso los aborda desde la perspectiva económica, adoptando una lógica de sistemas/complejidad. 
+El cambio climático y la pérdida de biodiversidad son grandes problemas que enfrenta la humanidad. Este curso los aborda desde la perspectiva económica, adoptando una lógica de sistemas/complejidad. Acá encuentras las [https://andvarga-eco.github.io/ema/](Notas de clase)
